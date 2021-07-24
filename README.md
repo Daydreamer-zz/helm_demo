@@ -1,1 +1,1 @@
-# helm_demo
+# A helm demo chart for rabbitmq cluster
